@@ -4,6 +4,7 @@
 2) in functions.php add:
 
 `require get_template_directory() . "/include/modal-settings.php";`
+
 3) in footer.php add:
      
 `<?php
